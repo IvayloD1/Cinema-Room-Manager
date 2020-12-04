@@ -8,13 +8,10 @@ Create an application that helps to manage a cinema theatre: sell tickets, che
 Objectives:
  Your menu should look like this:
  
-1. Show the seats
-
-2. Buy a ticket
-
-3. Statistics
-
-0. Exit
+<br>1. Show the seats</br>
+<br>2. Buy a ticket</br>
+<br>3. Statistics</br>
+<br>0. Exit</br>
 
  Show the seats  should print the current seating arrangement. The empty seats should be marked with an S symbol, and taken seats are marked with a B symbol.
  Buy a ticket  should read the seat coordinates from the input and print the ticket price. After that, the chosen seat should be marked with a B when the item  Show the seats      is called.
